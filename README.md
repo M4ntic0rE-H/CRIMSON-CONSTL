@@ -8,6 +8,9 @@ Site exposição de CRSM CSTL
 - [X]  Paleta no `:root` (variáveis CSS).
 - [X]  Google Fonts.
 - [X]  Imagens otimizadas com `alt` descritivo.
-- [X]  README com papéis, paleta, fontes e decisões.
+- [ ]  README com papéis, paleta, fontes e decisões.
 - [ ]  Site no ar.
 - [ ]  Vídeo de demonstração.
+
+- **Dev 1 - Breno Gabriel – Planejamento, Alinhamento com cliente, Estrutura e Acessibilidade**.
+- **Dev 2  - – Espoxisão de produto e Imagens principais**.
