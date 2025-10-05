@@ -12,12 +12,16 @@
             }
             .contacttxt {
                 color: var(--neonpurple);
+                font-size: 130%;
             }
             .contacttxtVar {
                 color: var(--happierblue);
+                font-family: "Overlock", sans-serif;
+                font-weight: 400;
+                font-style: normal;
             }
             .contacttxtfinal {
-                color: var(--dangerpurple);
+                color: var(--hazardpurple);
             }
             .contSubvar {
                 display: flex;
@@ -36,6 +40,16 @@
                 font-weight: 400;
                 font-style: normal;
                 gap: 50px;
+            }
+            .imgcomms {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-end;
+                margin-left: 30%;
+                
+                height: 60%;
+                width: 40%;
             }
             .imglogo {
                 display: flex;
@@ -89,7 +103,7 @@
     <body>
         <header>
             <div class="contSubvar">
-                <img src="./img/artist.webp" alt="Logo do artista Crimson Constl" width="500">
+                <img src="./img/artist.webp" alt="Imagem estilo meet the artist mostrando Crimson Constelation e alguns fatos sobre ele" width="500">
                 <nav><div class="homediv">
                         <a href="index.html">Home</a>
                         <a href="produto.html">Artwork</a>
@@ -107,13 +121,16 @@
                 </ul>
             </p>
             <p>
+                <img class="imgcomms" src="./img/3f9723b4-10d4-46fa-b6e8-66c727c402a1.jpg" alt="">
                 <span class="contacttxtVar">You can also comission me<br>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRCWaxFMACI_hUa_DTkq73X0vRdrBbfP68e38I9aSz0LAT8Q/viewform?usp=header"><i>Here!</i></a>
                 </span>
             </p>
         </main>
         <footer>
-            <p class="contacttxtfinal">© 2024 Crimson Constellation. All rights reserved. Do not steal.</p>
+            <p class="contacttxtfinal">
+                © 2024 Crimson Constellation. All rights reserved. Do not steal.
+            </p>
         </footer>
     </body>
 </html>
