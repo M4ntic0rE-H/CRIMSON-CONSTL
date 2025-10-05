@@ -2,12 +2,12 @@
 Site exposição de CRSM CSTL
 
 - [X]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
-- [ ]  `header`, `nav`, `main`, `footer` usados com propósito.
-- [ ]  Hero na página principal
+- [X]  `header`, `nav`, `main`, `footer` usados com propósito.
+- [X]  Hero na página principal
 - [ ]  **Tabela** simples presente.
-- [ ]  Paleta no `:root` (variáveis CSS).
-- [ ]  Google Fonts.
-- [ ]  Imagens otimizadas com `alt` descritivo.
-- [ ]  README com papéis, paleta, fontes e decisões.
+- [X]  Paleta no `:root` (variáveis CSS).
+- [X]  Google Fonts.
+- [X]  Imagens otimizadas com `alt` descritivo.
+- [X]  README com papéis, paleta, fontes e decisões.
 - [ ]  Site no ar.
 - [ ]  Vídeo de demonstração.
