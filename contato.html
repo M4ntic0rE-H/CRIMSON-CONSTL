@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Contacts</title>
+        <link rel="stylesheet" href="css/styles.css">
+        <style>
+            * {
+                background-color: var(--backalleygrey);
+                margin: 0;
+                
+            }
+            .contacttxt {
+                color: var(--neonpurple);
+            }
+            .contacttxtVar {
+                color: var(--happierblue);
+            }
+            .contacttxtfinal {
+                color: var(--dangerpurple);
+            }
+            .contSubvar {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-left: 0%;
+            }
+            .homediv {
+                display: flex;
+                flex-direction: row;
+                align-items: left;
+                margin-left: 50px;
+                justify-content: center;
+                font-size: 500%;
+                font-family: "Comforter Brush", cursive;
+                font-weight: 400;
+                font-style: normal;
+                gap: 50px;
+            }
+            .imglogo {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-end;
+                margin-left: 48%;
+                
+                height: 4%;
+                width: 4%;
+            }
+            .imglogoVar {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-end;
+                margin-bottom: 0%;
+                border-bottom: 0%;
+                margin-left: 40%;
+                
+                height: 40%;
+                width: 20%;
+            }
+            a {
+                text-decoration: none;
+                color: var(--highlightred);
+                transition: 0.3s;
+                
+            }
+            a:hover {
+                color: var(--hazardpurple); 
+            }
+            p {
+                text-align: center;
+                font-size: 20px;
+                max-width: 700px;
+                margin: 40px auto;
+                padding: 24px;      
+            }
+            li {
+                text-align: center;
+                font-size: 20px;
+                max-width: 700px;
+                margin-right: 0%;
+                margin-left: 20%;
+                padding: 24px;      
+                list-style: none;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="contSubvar">
+                <img src="./img/artist.webp" alt="Logo do artista Crimson Constl" width="500">
+                <nav><div class="homediv">
+                        <a href="index.html">Home</a>
+                        <a href="produto.html">Artwork</a>
+                        <a href="#">Contact</a>
+                </div></nav>
+            </div>
+        </header>
+        <main>
+            <p>
+                <span class="contacttxt">Here are some socials you can follow me on!</span> <br><br>
+                <ul>
+                    <li><img class="imglogo" src="./img/instagram.png" alt="logo do Instagram"><a href="https://www.instagram.com/crimsonconstl?igsh=MWNicXR0YTVrZzg5Zg%3D%3D&utm_source=qr">Instagram</a></li>
+                    <li><img class="imglogo" src="./img/tumblr.png" alt="Logo do Tumblr"><a href="https://crimson-constellations.tumblr.com/">Tumblr</a></li>
+                    <li><a href="https://ko-fi.com/crimsonconstl"><img class="imglogoVar" src="./img/support_me_on_kofi_badge_red.png" alt="Logo do ko-fi ligado ao link direto"></a></li>
+                </ul>
+            </p>
+            <p>
+                <span class="contacttxtVar">You can also comission me<br>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRCWaxFMACI_hUa_DTkq73X0vRdrBbfP68e38I9aSz0LAT8Q/viewform?usp=header"><i>Here!</i></a>
+                </span>
+            </p>
+        </main>
+        <footer>
+            <p class="contacttxtfinal">© 2024 Crimson Constellation. All rights reserved. Do not steal.</p>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Miniver&family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Syne+Tactile&display=swap');
+
+.Overlock {
+    font-family: 'Overlock', cursive;
+    font-style: normal;
+    font-weight: 400;
+}
+.syne-tactile-regular {
+    font-family: "Syne Tactile", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.miniver-regular {
+  font-family: "Miniver", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.comforter-brush-regular {
+  font-family: "Comforter Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.overlock-regular {
+  font-family: "Overlock", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.overlock-bold {
+  font-family: "Overlock", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.overlock-black {
+  font-family: "Overlock", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.overlock-regular-italic {
+  font-family: "Overlock", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.overlock-bold-italic {
+  font-family: "Overlock", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.overlock-black-italic {
+  font-family: "Overlock", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+:root {
+    --winered: #9b3c5a;
+    --blueishpurple: #8f8edb;
+    --bloodred: #BE1819;
+    --dullblue: #203EA4;
+    --directblue: #0065F8;
+    --clearerblue: #00CAFF;
+    --concretegray: #23262C;
+    --deepwinered: #841D1B;
+    --wine: #891B3E;
+    --smoothgray: #435C79;
+    --dulledviolet: #5A549D;
+    --backalleygrey: #27232c;
+    --happierblue: #8FAADF;
+    --neonpurple: #4635B1;
+    --dangerpurple: #4300FF;
+    --hazardpurple: #7C00FE;
+    --aggressivepink: #FF2DF1;
+    --piercingcyan: #00FFDE;
+    --highvizgreen: #08CB00;
+    --highlightred: #FF0B55;
+    --creampink: #FF7EE2;
+  }
