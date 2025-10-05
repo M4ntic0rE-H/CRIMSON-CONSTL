@@ -6,22 +6,69 @@
         <link rel="stylesheet" href="css/styles.css">
         <style>
             * {
-                background-color: #27232c;
+                background-color: var(--backalleygrey);
                 margin: 0;
                 
+            }
+            .about1 {
+                color: var(--neonpurple);
+                font-size: 25px;
+            }
+            .about2 {
+                color: var(--dullblue)
+            }
+            .about2var {
+                color: var(--directblue);
+            }
+            .about3 {
+                color: var(--wine)
+            }
+            .about3var {
+                color: var(--bloodred);
+            }
+            .about4 {
+                color: var(--happierblue)
+            }
+            .contacttxtfinal {
+                color: var(--dangerpurple);
+            }
+            p {
+                text-align: center;
+                font-size: 20px;
+                max-width: 700px;
+                margin: 40px auto;
+                padding: 24px;      
             }
             .container {
                 display: flex;
                 align-items: center;
             }
+            .contSub {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-left: 35%;
+            }
             .homediv {
                 display: flex;
                 flex-direction: row;
-                align-items: center;
+                align-items: left;
+                margin-left: 50px;
                 justify-content: center;
-                font-family: Miniver, Regular 400;
-                font-size: 300%;
+                font-size: 500%;
+                font-family: "Comforter Brush", cursive;
+                font-weight: 400;
+                font-style: normal;
                 gap: 50px;
+            }
+            a {
+                text-decoration: none;
+                color: var(--highlightred);
+                transition: 0.3s;
+                
+            }
+            a:hover {
+                color: var(--hazardpurple); 
             }
         </style>
     </head>
@@ -36,4 +83,29 @@
                 </div></nav>
             </div>
         </header>
-        
+        <main>
+            <p class="Overlock"><span class="about1"> Hello any and all!, 
+                i´m Mori, a Brazilian Digital Artist and illustrator whose work 
+                blends bold character design with raw, expressive energy!</span><br>
+            </p>
+            <img class="contSub" src="./img/comm_vers_final.webp" alt="desenho do artistasegurando desenhos de alguns personagens de diversas séries animadas" width="400">
+            <br>
+            <p class="Overlock">
+                <span class="about2var">My artstyle mixes gritty textures, sharp contrasts, 
+                and vibrant pops of color, often channeling influences 
+                from alternative culture, metal aesthetics, and fandom worlds.<br> 
+                With a focus on personality-driven illustrations, 
+                i like to create pieces that feel both intimate and 
+                rebellious—capturing moods that range from playful and humorous 
+                to intense and striking.</span> <br><br> <span class="about3var">My portfolio is filled with stylized 
+                characters, dynamic expressions, and a strong sense of attitude, 
+                making my work resonate with audiences who appreciate art that’s 
+                unapologetically personal and emotionally charged!</span><br><br>
+                <span class="about4">So make sure to check it out!</span>
+            </p>
+        </main>
+        <footer>
+            <p class="contacttxtfinal">© 2024 Crimson Constellation. All rights reserved. Do not steal.</p>
+        </footer>
+    </body>
+</html>
