@@ -15,21 +15,21 @@ Site exposição de CRSM CSTL um artista digital que tem um estilo único e vibr
 - **Dev 1 - Breno Gabriel – Planejamento, Alinhamento com cliente, Estrutura e Acessibilidade**.
 - **Dev 2  - – Espoxisão de produto e Imagens principais**.
 
-- Paleta principal: 
-  #27232C
-  #4635B1
-  #8FAADF
-  #FF0B55
-  #7C00FE
-  #203EA4
-  #0065F8
-  #891B3E
-  #BE1819
+- Paleta principal:
+  - #27232C
+  - #4635B1
+  - #8FAADF
+  - #FF0B55
+  - #7C00FE
+  - #203EA4
+  - #0065F8
+  - #891B3E
+  - #BE1819
 
 - Fontes especiais
-  Overlock
-  Syne Tactile
-  Comforter Brush
+  - Overlock
+  - Syne Tactile
+  - Comforter Brush
 
   Para abrir o projeto, basta abrir o index
   
