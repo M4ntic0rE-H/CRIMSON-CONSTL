@@ -10,7 +10,7 @@ Site exposição de CRSM CSTL um artista digital que tem um estilo único e vibr
 - [X]  Imagens otimizadas com `alt` descritivo.
 - [X]  README com papéis, paleta, fontes e decisões.
 - [X]  Site no ar.
-- [ ]  Vídeo de demonstração.
+- [X]  Vídeo de demonstração.
 
 - **Dev 1 - Breno Gabriel – Planejamento, Alinhamento com cliente, Estrutura e Acessibilidade**.
 - **Dev 2  - – Exposição de produto e Imagens principais**.
