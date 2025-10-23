@@ -13,7 +13,7 @@ Site exposição de CRSM CSTL um artista digital que tem um estilo único e vibr
 - [X]  Vídeo de demonstração.
 
 - **Dev 1 - Breno Gabriel – Planejamento, Alinhamento com cliente, Estrutura e Acessibilidade**.
-- **Dev 2  - – Exposição de produto e Imagens principais**.
+- **Dev 2  - Christopher Moraes – Exposição de produto e Imagens principais**.
 
 - Paleta principal:
   - #27232C
